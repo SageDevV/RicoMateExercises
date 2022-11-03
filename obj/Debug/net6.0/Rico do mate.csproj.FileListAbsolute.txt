@@ -1,0 +1,15 @@
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\bin\Debug\net6.0\Rico do mate.exe
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\bin\Debug\net6.0\Rico do mate.deps.json
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\bin\Debug\net6.0\Rico do mate.runtimeconfig.json
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\bin\Debug\net6.0\Rico do mate.dll
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\bin\Debug\net6.0\Rico do mate.pdb
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\Rico do mate.csproj.AssemblyReference.cache
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\Rico do mate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\Rico do mate.AssemblyInfoInputs.cache
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\Rico do mate.AssemblyInfo.cs
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\Rico do mate.csproj.CoreCompileInputs.cache
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\Rico do mate.dll
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\refint\Rico do mate.dll
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\Rico do mate.pdb
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\Rico do mate.genruntimeconfig.cache
+C:\Workspace.NET\Trainning Algoritm\Rico do mate\obj\Debug\net6.0\ref\Rico do mate.dll
